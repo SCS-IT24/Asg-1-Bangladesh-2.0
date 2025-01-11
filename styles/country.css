@@ -7,6 +7,9 @@
  .sky-blue{
     color: #0E0E0E;
  }
+ .sky-blue-1{
+    color: rgb(14, 14, 14, 50%);
+ }
 
 /* Nav Styles */
 nav{
@@ -31,6 +34,52 @@ nav{
     width: 116px;
     height: 52px;
 }
+.nav-title-2:hover{
+    background-color: aquamarine;
+}
 .btn-1{
     padding: 30px 15px;
+    border-color: #006A50;
 }
+
+/* banner styles */
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+    /* margin: 0 219.99px 0 219.99px; */
+    max-width: 1280px;
+    max-height: 560px;
+    background-color: #C6E4D6;
+}
+
+.banner-content{
+    max-width: 622px;
+    max-height: 326px;
+    border: ;
+}
+
+.banner-heading{
+    font-size: 24px;
+    font-weight: 500px;
+}
+.banner-title{
+    font-weight: 700px;
+    font-size: 56px;
+}
+
+.btn-primary{
+   background-color: #006A50;
+   color: #FFFFFF;
+   width: 270px;
+   height: 56px;
+   border-radius: 8px;
+}
+
+.banner-hero-pic{
+    width: 474.03px;
+    height: 400px;
+}
+
+
+
