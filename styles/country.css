@@ -1,0 +1,36 @@
+
+.fira-sans-normal{
+    font-family: "Fira Sans", serif;
+    font-style: normal;
+  }
+ /* shared style */
+ .sky-blue{
+    color: #0E0E0E;
+ }
+
+/* Nav Styles */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+.nav-title-1{
+    font-weight: 700;
+    font-size: 32px;
+    height: 38px;
+    width: 222px;
+}
+.nav-title-2{
+    color: #006A50;
+    font-weight: 600;
+    font-size: 18px;
+    border-radius: 8px;
+    opacity: 100;
+    width: 116px;
+    height: 52px;
+}
+.btn-1{
+    padding: 30px 15px;
+}
